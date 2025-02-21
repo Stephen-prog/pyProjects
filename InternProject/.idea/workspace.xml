@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d39b6f1-e92b-4860-88ea-48d007889261" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankprog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../constand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countdown.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diceroll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encrypt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hangman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../madlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numguess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopcart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slotmach.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tconv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../val.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wconv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordlist.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Stephen-prog"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Stephen-prog/pytz.git",
+    "accountId": "a0c79f3e-5054-4c15-9645-a285a023b376"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2tDHPXGrVw7C87uBiq5EI9dcpsY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d39b6f1-e92b-4860-88ea-48d007889261" name="Changes" comment="" />
+      <created>1739879701194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739879701194</updated>
+    </task>
+    <servers />
+  </component>
+</project>
