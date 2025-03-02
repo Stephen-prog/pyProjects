@@ -66,14 +66,12 @@ class Calculator(QWidget):
             self.update_display(sender)
 
     def clear_display(self):
-        """Clears the display and resets input tracking."""
         self.display.clear()
         self.current_input = ""
         self.last_result = None
         self.new_input = True
 
     def toggle_sign(self):
-        """Toggles the sign of the current number."""
         try:
             value = float(self.display.text())
             self.display.setText(str(-value))
@@ -82,7 +80,6 @@ class Calculator(QWidget):
             pass
 
     def percentage(self):
-        """Converts the current number to a percentage."""
         try:
             value = float(self.display.text()) / 100
             self.display.setText(str(value))
@@ -91,7 +88,6 @@ class Calculator(QWidget):
             pass
 
     def calculate_result(self):
-        """Evaluates the expression and displays the result."""
         try:
             expression = self.current_input.replace("×", "*").replace("÷", "/").replace("−", "-")
             result = eval(expression)
@@ -103,7 +99,6 @@ class Calculator(QWidget):
             self.new_input = True
 
     def update_display(self, value):
-        """Handles number and operator input dynamically."""
         if self.new_input and value.isdigit():
             self.display.setText(value)
             self.current_input = value
@@ -114,7 +109,6 @@ class Calculator(QWidget):
         self.new_input = False
 
     def keyPressEvent(self, event):
-        """Handles keyboard input."""
         key_map = {
             Qt.Key_0: "0", Qt.Key_1: "1", Qt.Key_2: "2", Qt.Key_3: "3",
             Qt.Key_4: "4", Qt.Key_5: "5", Qt.Key_6: "6", Qt.Key_7: "7",
@@ -127,7 +121,7 @@ class Calculator(QWidget):
             self.buttons[key_map[event.key()]].click()
 
     def load_styles(self):
-        """Loads iPhone-style QSS for buttons and display."""
+
         return """
         QWidget {
             background-color: #1C1C1C;
